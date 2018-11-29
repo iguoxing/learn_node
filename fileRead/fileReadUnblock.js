@@ -1,3 +1,4 @@
+// 非阻塞代码实例
 var fs = require("fs");
 
 fs.readFile('input.txt', function (err, data) {

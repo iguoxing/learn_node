@@ -1,3 +1,4 @@
+// 阻塞代码实例
 var fs = require("fs");
 var fs = require("fs");
 
